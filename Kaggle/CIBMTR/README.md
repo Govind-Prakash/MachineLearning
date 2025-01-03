@@ -1,5 +1,5 @@
 # CIBMTR - Equity in post-HCT Survival Predictions
-![img](https://www.researchgate.net/publication/382559076/figure/fig1/AS:11431281272111795@1723861257848/Hematopoietic-Cell-Transplantation-HCT-involves-the-administration-of-high-doses-of.png)
+![HCT Transplant](https://www.researchgate.net/publication/382559076/figure/fig1/AS:11431281272111795@1723861257848/Hematopoietic-Cell-Transplantation-HCT-involves-the-administration-of-high-doses-of.png)
 
 ## Description
 Improving survival predictions for allogeneic HCT patients is a vital healthcare challenge. Current predictive models often fall short in addressing disparities related to socioeconomic status, race, and geography. Addressing these gaps is crucial for enhancing patient care, optimizing resource utilization, and rebuilding trust in the healthcare system.
